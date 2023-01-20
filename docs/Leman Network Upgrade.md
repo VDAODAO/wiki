@@ -27,7 +27,7 @@ As well as an update on the state of preparation for the upgrade itself [here](h
 
 ### SDK
 
-Set of tools to interact to and develop dApps on Alephium
+Set of tools to interact with and develop dApps on Alephium
 
 
 Github: [https://github.com/alephium/alephium-web3](https://github.com/alephium/alephium-web3)
@@ -87,7 +87,7 @@ The Core Team developed a Bridge between Alephium and Ethereum.
 
 Its code can be found in the following link: [https://github.com/alephium/wormhole-fork/tree/add-alephium-to-wormhole/alephium](https://github.com/alephium/wormhole-fork/tree/add-alephium-to-wormhole/alephium)
 
-The Alephium-Ethereum Bridge is deployed in the testnet
+The Alephium-Ethereum Bridge is deployed on testnet
 
 # Testnet 
 
