@@ -87,7 +87,7 @@ The Core Team developed a Bridge between Alephium and Ethereum.
 
 Its code can be found in the following link: [https://github.com/alephium/wormhole-fork/tree/add-alephium-to-wormhole/alephium](https://github.com/alephium/wormhole-fork/tree/add-alephium-to-wormhole/alephium)
 
-The Alephium-Ethereum Bridge is deployed in the testnet.
+The Alephium-Ethereum Bridge is deployed on the testnet.
 
 # Testnet 
 
